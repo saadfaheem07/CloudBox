@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment
+.env
+.env.*
+
+# Node
+node_modules/
+cloudbox-ui/node_modules/
+cloudbox-ui/dist/
+
+# macOS junk
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Python virtual env
+venv/
+.venv/
+
